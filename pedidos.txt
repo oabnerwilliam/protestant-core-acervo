@@ -1,0 +1,2 @@
+# Um arquivo do Wikimedia Commons por linha (nome "File:..." ou link da página). Linhas com # são ignoradas.
+File:Luther_at_the_Diet_of_Worms.jpg

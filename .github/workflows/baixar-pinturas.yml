@@ -1,0 +1,33 @@
+name: Baixar pinturas do Wikimedia Commons
+
+on:
+  push:
+    paths: ["pedidos.txt"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: baixar-pinturas
+  cancel-in-progress: false
+
+jobs:
+  baixar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Baixar pedidos pendentes
+        run: python3 scripts/baixar.py
+      - name: Salvar no repositório
+        run: |
+          git config user.name "acervo-bot"
+          git config user.email "acervo-bot@users.noreply.github.com"
+          git add pinturas acervo.json
+          if git diff --cached --quiet; then echo "Nada novo."; exit 0; fi
+          git commit -m "Acervo: novas pinturas"
+          git pull --rebase
+          git push
