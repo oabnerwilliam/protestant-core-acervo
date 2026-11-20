@@ -184,13 +184,20 @@ def quebrar_equilibrado(toks, fr, fb, larg, track):
     paras.append(atual)
     out = []
     for p in paras:
+        # linhas ocupam toda a largura; só encurta se a última linha ficar com uma palavra sozinha
+        esp = fr.getlength(" ") * 0.85
+        def curta(lin):  # última linha com menos de 35% da largura = "viúva"
+            return sum(larg_palavra(w, fr, fb, track) for w in lin) + esp * (len(lin) - 1) < larg * 0.35
         n = len(quebrar(p, fr, fb, larg, track))
-        lo, hi = larg * 0.5, larg
-        while hi - lo > 2:
-            mid = (lo + hi) / 2
-            if len(quebrar(p, fr, fb, mid, track)) > n: lo = mid
-            else: hi = mid
-        out += quebrar(p, fr, fb, hi, track)
+        escolha = quebrar(p, fr, fb, larg, track)
+        if n > 1 and curta(escolha[-1]):
+            lw = larg
+            while lw > larg * 0.7:
+                lw -= 8
+                t = quebrar(p, fr, fb, lw, track)
+                if len(t) > n: break
+                if not curta(t[-1]): escolha = t; break
+        out += escolha
     return out
 
 def escrever(d, x, y, palavra, f, track):
