@@ -1,2 +1,4 @@
 # Um arquivo do Wikimedia Commons por linha (nome "File:..." ou link da página). Linhas com # são ignoradas.
 File:Luther_at_the_Diet_of_Worms.jpg
+File:Лютер_в_Вормсе.jpg
+File:Saint_Paul,_Rembrandt_van_Rijn_(and_Workshop?),_c._1657.jpg
