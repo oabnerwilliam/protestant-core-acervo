@@ -86,5 +86,38 @@
     "licenca": "Public domain",
     "largura_original": 2000,
     "altura_original": 2471
+  },
+  {
+    "commons": "File:Greco,_El_-_Sts_Peter_and_Paul.jpg",
+    "arquivo": "pinturas/greco-el-sts-peter-and-paul.jpg",
+    "pagina": "https://commons.wikimedia.org/wiki/File%3AGreco%2C_El_-_Sts_Peter_and_Paul.jpg",
+    "titulo": "«Апостолы Петр и Павел » Saint Peter and Saint Paul",
+    "artista": "El Greco",
+    "data": "between 1587 and 1592",
+    "licenca": "Public domain",
+    "largura_original": 8656,
+    "altura_original": 10128
+  },
+  {
+    "commons": "File:Comunione_degli_apostoli,_cella_35.jpg",
+    "arquivo": "pinturas/comunione-degli-apostoli-cella-35.jpg",
+    "pagina": "https://commons.wikimedia.org/wiki/File%3AComunione_degli_apostoli%2C_cella_35.jpg",
+    "titulo": "Last Supper",
+    "artista": "Fra Angelico",
+    "data": "1440",
+    "licenca": "Public domain",
+    "largura_original": 2111,
+    "altura_original": 1607
+  },
+  {
+    "commons": "File:Vier_Apostel_(Albrecht_Duerer).jpg",
+    "arquivo": "pinturas/vier-apostel-albrecht-duerer.jpg",
+    "pagina": "https://commons.wikimedia.org/wiki/File%3AVier_Apostel_%28Albrecht_Duerer%29.jpg",
+    "titulo": "Vier Apostel The Four Apostles",
+    "artista": "Albrecht Dürer",
+    "data": "1526",
+    "licenca": "Public domain",
+    "largura_original": 2174,
+    "altura_original": 2472
   }
 ]
