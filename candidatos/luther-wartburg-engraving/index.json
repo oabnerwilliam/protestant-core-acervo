@@ -1,0 +1,71 @@
+{
+  "busca": "Luther Wartburg engraving",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Flugblatt-Luther-Thesen.jpg",
+      "miniatura": "candidatos/luther-wartburg-engraving/01.jpg",
+      "largura": 1912,
+      "altura": 3268,
+      "licenca": "Public domain",
+      "titulo": "Flugblatt-Luther-Thesen",
+      "artista": "C.G. (sculpsit); Henning Grosse (typis); Georg Liger (printer)",
+      "data": "1617"
+    },
+    {
+      "n": 2,
+      "commons": "File:Luther_Das_Newe_Testament_Deutzsch_433_Apokalypse.JPG",
+      "miniatura": "candidatos/luther-wartburg-engraving/02.jpg",
+      "largura": 1142,
+      "altura": 1609,
+      "licenca": "Public domain",
+      "titulo": "Das Newe Testament Deutzsch",
+      "artista": "Martin Luther",
+      "data": ""
+    },
+    {
+      "n": 3,
+      "commons": "File:Luther-feestplaat_(titel_op_object),_RP-P-1906-623.jpg",
+      "miniatura": "candidatos/luther-wartburg-engraving/03.jpg",
+      "largura": 4222,
+      "altura": 6018,
+      "licenca": "CC0",
+      "titulo": "Luther-feestplaat (titel op object), RP-P-1906-623",
+      "artista": "Rijksmuseum",
+      "data": "between 1856 and 1946"
+    },
+    {
+      "n": 4,
+      "commons": "File:Martin_Luther,_the_man_and_his_work_(1911)_(14741293396).jpg",
+      "miniatura": "candidatos/luther-wartburg-engraving/04.jpg",
+      "largura": 1388,
+      "altura": 1888,
+      "licenca": "No restrictions",
+      "titulo": "Martin Luther, the man and his work (1911) (14741293396)",
+      "artista": "Internet Archive Book Images",
+      "data": "1911"
+    },
+    {
+      "n": 5,
+      "commons": "File:A_history_of_mediaeval_and_modern_Europe_for_secondary_schools_(1914)_(14804322053).jpg",
+      "miniatura": "candidatos/luther-wartburg-engraving/05.jpg",
+      "largura": 1884,
+      "altura": 1336,
+      "licenca": "No restrictions",
+      "titulo": "A history of mediaeval and modern Europe for secondary schools (1914) (14804322053)",
+      "artista": "Internet Archive Book Images",
+      "data": "1914"
+    },
+    {
+      "n": 6,
+      "commons": "File:Jerome_in_his_cell.jpg",
+      "miniatura": "candidatos/luther-wartburg-engraving/06.jpg",
+      "largura": 2068,
+      "altura": 3084,
+      "licenca": "Public domain",
+      "titulo": "Jerome in his cell",
+      "artista": "Unknown author Unknown author",
+      "data": "16 th century"
+    }
+  ]
+}

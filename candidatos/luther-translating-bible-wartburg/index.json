@@ -1,0 +1,38 @@
+{
+  "busca": "Luther translating Bible Wartburg",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Sendbrief_vom_Dolmetschen,_Martin_Luther,_02.jpg",
+      "miniatura": "candidatos/luther-translating-bible-wartburg/01.jpg",
+      "largura": 3508,
+      "altura": 2479,
+      "licenca": "Public domain",
+      "titulo": "Sendbrief vom Dolmetschen, Martin Luther, 02",
+      "artista": "Martin Luther",
+      "data": "1530"
+    },
+    {
+      "n": 2,
+      "commons": "File:Luther_Psalm_23_Bremer_Presse_1928_P1400070.JPG",
+      "miniatura": "candidatos/luther-translating-bible-wartburg/02.jpg",
+      "largura": 3440,
+      "altura": 4712,
+      "licenca": "Public domain",
+      "titulo": "Luther Psalm 23 Bremer Presse 1928 P1400070",
+      "artista": "Martin Luther",
+      "data": "Text by Martin Luther, 1534, Printed in 1928"
+    },
+    {
+      "n": 3,
+      "commons": "File:The_earth_and_its_inhabitants_(1883)_(20942166409).jpg",
+      "miniatura": "candidatos/luther-translating-bible-wartburg/03.jpg",
+      "largura": 2028,
+      "altura": 1728,
+      "licenca": "No restrictions",
+      "titulo": "The earth and its inhabitants (1883) (20942166409)",
+      "artista": "Internet Archive Book Images",
+      "data": "1883"
+    }
+  ]
+}

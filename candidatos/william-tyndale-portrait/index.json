@@ -1,0 +1,115 @@
+{
+  "busca": "William Tyndale portrait",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:William_Tyndale.jpg",
+      "miniatura": "candidatos/william-tyndale-portrait/01.jpg",
+      "largura": 1335,
+      "altura": 1619,
+      "licenca": "Public domain",
+      "titulo": "William Tyndale",
+      "artista": "",
+      "data": ""
+    },
+    {
+      "n": 2,
+      "commons": "File:Portrait_of_William_Tyndale.jpg",
+      "miniatura": "candidatos/william-tyndale-portrait/02.jpg",
+      "largura": 2000,
+      "altura": 2471,
+      "licenca": "Public domain",
+      "titulo": "Portrait of William Tyndale",
+      "artista": "Unknown author Unknown author",
+      "data": "1836"
+    },
+    {
+      "n": 3,
+      "commons": "File:Portret_van_Engelse_priester_en_theoloog_William_Tyndale_Gulielmus_Tyndall_Martyr_tibi_causa_necis_(titel_op_object),_RP-P-OB-26.648.jpg",
+      "miniatura": "candidatos/william-tyndale-portrait/03.jpg",
+      "largura": 4230,
+      "altura": 5448,
+      "licenca": "CC0",
+      "titulo": "Portret van Engelse priester en theoloog William Tyndale Gulielmus Tyndall Martyr tibi causa necis (titel op object), RP-P-OB-26.648",
+      "artista": "François van Bleyswijck, 1681 - 1741",
+      "data": "between 1681 and 1741"
+    },
+    {
+      "n": 4,
+      "commons": "File:Portrait_of_William_Tyndale,_and_title_page,_on_later_paper_(NYPL_b12455533-426715).tif",
+      "miniatura": "candidatos/william-tyndale-portrait/04.jpg",
+      "largura": 4435,
+      "altura": 3520,
+      "licenca": "Public domain",
+      "titulo": "Portrait of William Tyndale, and title page, on later paper (NYPL b12455533-426715)",
+      "artista": "Scan by NYPL",
+      "data": "1500"
+    },
+    {
+      "n": 5,
+      "commons": "File:Unknown_man,_formerly_known_as_William_Tyndale_from_NPG.jpg",
+      "miniatura": "candidatos/william-tyndale-portrait/05.jpg",
+      "largura": 2400,
+      "altura": 3265,
+      "licenca": "Public domain",
+      "titulo": "Unknown man, formerly known as William Tyndale",
+      "artista": "anonymous",
+      "data": "Unknown date, but very likely that the work was first published before 1923"
+    },
+    {
+      "n": 6,
+      "commons": "File:Unknown_man,_formerly_known_as_William_Tyndale_from_NPG_(2).jpg",
+      "miniatura": "candidatos/william-tyndale-portrait/06.jpg",
+      "largura": 2400,
+      "altura": 3178,
+      "licenca": "Public domain",
+      "titulo": "Unknown man, formerly known as William Tyndale",
+      "artista": "anonymous",
+      "data": "Unknown date, but was given to the National Portrait Gallery, London in 1944"
+    },
+    {
+      "n": 7,
+      "commons": "File:Beza's_Icones,_contemporary_portraits_of_reformers_of_religion_and_letters_-_William_Tindale_on_Page_58.jpg",
+      "miniatura": "candidatos/william-tyndale-portrait/07.jpg",
+      "largura": 1252,
+      "altura": 1652,
+      "licenca": "Public domain",
+      "titulo": "Beza's Icones, contemporary portraits of reformers of religion and letters; being facsimile reproductions of the portraits in Beza's Icones (1580) and in Goulard's edition (1581)",
+      "artista": "McCrie, Charles Greig, 1836-1910 Bèze, Théodore de, 1519-1605",
+      "data": ""
+    },
+    {
+      "n": 8,
+      "commons": "File:Portrait_of_Tindal_(4672087).jpg",
+      "miniatura": "candidatos/william-tyndale-portrait/08.jpg",
+      "largura": 1200,
+      "altura": 1957,
+      "licenca": "Public domain",
+      "titulo": "Tindal",
+      "artista": "Unknown author Unknown author",
+      "data": "circa 1820"
+    },
+    {
+      "n": 9,
+      "commons": "File:Historical_portraits;_some_notes_on_the_painted_portraits_of_celebrated_characters_of_England,_Scotland_and_Ireland_(1897)_(14577651378).jpg",
+      "miniatura": "candidatos/william-tyndale-portrait/09.jpg",
+      "largura": 1924,
+      "altura": 2242,
+      "licenca": "No restrictions",
+      "titulo": "Historical portraits; some notes on the painted portraits of celebrated characters of England, Scotland and Ireland (1897) (14577651378)",
+      "artista": "Internet Archive Book Images",
+      "data": "1897"
+    },
+    {
+      "n": 10,
+      "commons": "File:Itinerary_of_the_Seventh_Ohio_volunteer_infantry,_1861-1864,_with_roster,_portraits_and_biographies_(1907)_(14762825835).jpg",
+      "miniatura": "candidatos/william-tyndale-portrait/10.jpg",
+      "largura": 1562,
+      "altura": 2804,
+      "licenca": "No restrictions",
+      "titulo": "Itinerary of the Seventh Ohio volunteer infantry, 1861-1864, with roster, portraits and biographies (1907) (14762825835)",
+      "artista": "Internet Archive Book Images",
+      "data": "1907"
+    }
+  ]
+}
