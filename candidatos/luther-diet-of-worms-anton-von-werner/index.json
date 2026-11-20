@@ -1,0 +1,27 @@
+{
+  "busca": "Luther Diet of Worms Anton von Werner",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Лютер_в_Вормсе.jpg",
+      "miniatura": "candidatos/luther-diet-of-worms-anton-von-werner/01.jpg",
+      "largura": 4699,
+      "altura": 2436,
+      "licenca": "Public domain",
+      "titulo": "Лютер в Вормсе",
+      "artista": "Anton von Werner",
+      "data": "1877"
+    },
+    {
+      "n": 2,
+      "commons": "File:Лютер_в_Вормсе_(cropped).jpg",
+      "miniatura": "candidatos/luther-diet-of-worms-anton-von-werner/02.jpg",
+      "largura": 3250,
+      "altura": 2436,
+      "licenca": "Public domain",
+      "titulo": "Лютер в Вормсе (cropped)",
+      "artista": "Anton von Werner",
+      "data": "1877"
+    }
+  ]
+}

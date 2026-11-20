@@ -1,0 +1,137 @@
+{
+  "busca": "Apostle Paul painting",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Rembrandt_Harmensz._van_Rijn_163.jpg",
+      "miniatura": "candidatos/apostle-paul-painting/01.jpg",
+      "largura": 1197,
+      "altura": 1445,
+      "licenca": "Public domain",
+      "titulo": "Apostle Paul",
+      "artista": "Rembrandt",
+      "data": "1633 (?)"
+    },
+    {
+      "n": 2,
+      "commons": "File:Apostle_Paul_(Jan_Lievens)_-_Nationalmuseum_-_132629.tif",
+      "miniatura": "candidatos/apostle-paul-painting/02.jpg",
+      "largura": 3674,
+      "altura": 4047,
+      "licenca": "Public domain",
+      "titulo": "Apostle Paul",
+      "artista": "Jan Lievens",
+      "data": "1627"
+    },
+    {
+      "n": 3,
+      "commons": "File:Anthony_van_Dyck_-_The_Apostle_Saint_Paul.jpg",
+      "miniatura": "candidatos/apostle-paul-painting/03.jpg",
+      "largura": 1104,
+      "altura": 1500,
+      "licenca": "Public domain",
+      "titulo": "The Apostle Saint Paul",
+      "artista": "Anthony van Dyck",
+      "data": "between 1618 and 1620"
+    },
+    {
+      "n": 4,
+      "commons": "File:Rembrandt,_The_Apostle_Paul,_1659,_The_National_Gallery,_London.jpg",
+      "miniatura": "candidatos/apostle-paul-painting/04.jpg",
+      "largura": 5057,
+      "altura": 6000,
+      "licenca": "Public domain",
+      "titulo": "An Elderly Man as Saint Paul",
+      "artista": "Rembrandt",
+      "data": "Probably 1659"
+    },
+    {
+      "n": 5,
+      "commons": "File:Saint_Paul,_Rembrandt_van_Rijn_(and_Workshop?),_c._1657.jpg",
+      "miniatura": "candidatos/apostle-paul-painting/05.jpg",
+      "largura": 3267,
+      "altura": 4096,
+      "licenca": "Public domain",
+      "titulo": "The Apostle Paul",
+      "artista": "Rembrandt",
+      "data": "circa 1657"
+    },
+    {
+      "n": 6,
+      "commons": "File:Rembrandt_van_Rijn_(and_Workshop?),_The_Apostle_Paul,_c._1657,_NGA_1198.jpg",
+      "miniatura": "candidatos/apostle-paul-painting/06.jpg",
+      "largura": 3191,
+      "altura": 4000,
+      "licenca": "CC0",
+      "titulo": "The Apostle Paul",
+      "artista": "Rembrandt van Rijn (and Workshop?)",
+      "data": "circa 1657"
+    },
+    {
+      "n": 7,
+      "commons": "File:The_Apostle_Paul_by_Abraham_Bloemaert_Centraal_Museum_6180.jpg",
+      "miniatura": "candidatos/apostle-paul-painting/07.jpg",
+      "largura": 2833,
+      "altura": 3376,
+      "licenca": "Public domain",
+      "titulo": "The apostle Paul of Tarsus",
+      "artista": "Abraham Bloemaert",
+      "data": "1631"
+    },
+    {
+      "n": 8,
+      "commons": "File:Apostle_Paul_(Ubisi_icon).jpg",
+      "miniatura": "candidatos/apostle-paul-painting/08.jpg",
+      "largura": 1360,
+      "altura": 1842,
+      "licenca": "Public domain",
+      "titulo": "The Apostle Paul",
+      "artista": "Unknown author Unknown author",
+      "data": "14 th century"
+    },
+    {
+      "n": 9,
+      "commons": "File:Jan_Lievens,_Painting_of_St_Paul,_ca._1627-29._Oil_on_canvas._Nationalmuseum_Sweden.jpg",
+      "miniatura": "candidatos/apostle-paul-painting/09.jpg",
+      "largura": 2675,
+      "altura": 3016,
+      "licenca": "Public domain",
+      "titulo": "Aposteln Paulus Apostle Paul",
+      "artista": "Jan Lievens",
+      "data": "circa 1627-1629"
+    },
+    {
+      "n": 10,
+      "commons": "File:'The_Apostle_Paul_on_the_Island_of_Melit'_by_Jan_Miense_Molenaer,_Pushkin_Museum.JPG",
+      "miniatura": "candidatos/apostle-paul-painting/10.jpg",
+      "largura": 2775,
+      "altura": 2121,
+      "licenca": "Public domain",
+      "titulo": "The Apostle Paul on the Island of Melit",
+      "artista": "Jan Miense Molenaer",
+      "data": "17 th century"
+    },
+    {
+      "n": 11,
+      "commons": "File:Maulbertsch,_Franz_Anton_-_St._Paul_the_Apostle_-_Google_Art_Project.jpg",
+      "miniatura": "candidatos/apostle-paul-painting/11.jpg",
+      "largura": 2076,
+      "altura": 3157,
+      "licenca": "Public domain",
+      "titulo": "St. Paul the Apostle",
+      "artista": "Franz Anton Maulbertsch",
+      "data": "1759"
+    },
+    {
+      "n": 12,
+      "commons": "File:ApostlePaulOrcau.jpg",
+      "miniatura": "candidatos/apostle-paul-painting/12.jpg",
+      "largura": 1250,
+      "altura": 1350,
+      "licenca": "Public domain",
+      "titulo": "ApostlePaulOrcau",
+      "artista": "Emilio J. Rodrigez Posada",
+      "data": "2015-06-05"
+    }
+  ]
+}
