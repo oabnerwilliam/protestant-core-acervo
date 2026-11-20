@@ -85,6 +85,9 @@ def main():
         url = info.get("thumburl") if info["width"] > LARG else info["url"]
         meta = info.get("extmetadata", {})
         s = slug(nome)
+        if len(s) < 4:  # nomes em alfabetos não latinos (ex.: cirílico)
+            s = slug("x:" + limpa(meta.get("Artist", {}).get("value")) + " " +
+                     (limpa(meta.get("ObjectName", {}).get("value")) or str(pag.get("pageid", ""))) + ".x")
         ext = ".png" if url.lower().endswith(".png") else ".jpg"
         caminho = f"pinturas/{s}{ext}"
         open(caminho, "wb").write(get(url)); time.sleep(1)
