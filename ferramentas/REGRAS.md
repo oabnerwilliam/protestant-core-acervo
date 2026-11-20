@@ -64,7 +64,9 @@ Mensagens de commit curtas, em português. Se o push for recusado ou a Action fa
 
 Dois parágrafos curtos (cerca de 60 a 90 palavras cada), em tom reverente e direto:
 1. **Contexto e importância**: quem disse ou escreveu, quando, onde e em que situação; por que isso importa para a fé protestante (de preferência ligando à Reforma ou à continuidade com a igreja antiga). Só fatos verificados.
-2. **Aplicação prática**: o que o texto significa hoje e uma ação concreta para a semana; feche com uma pergunta curta para o leitor.
+2. **Aplicação prática**: o que o texto significa hoje e uma ação concreta; feche com uma pergunta curta para o leitor.
+
+**Sem referências de tempo** ("nesta semana", "hoje", "neste domingo", "amanhã"): o post pode ser publicado em qualquer dia. Prefira "da próxima vez que…", "quando…".
 
 Depois, numa linha: 📜 fonte (tradução bíblica ou obra/ano da citação) · 🎨 pintura (título em português, artista, ano). Por fim, 6 a 10 hashtags (#protestantismo #reforma #teologia #fécristã + específicas do tema).
 
