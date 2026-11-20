@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""Lê pedidos.txt (um nome de arquivo do Wikimedia Commons por linha, ex.: File:Luther_at_the_Diet_of_Worms.jpg),
+"""1) buscas.txt: uma busca por linha (ex.: "Luther Worms painting"). Para cada busca nova, salva até 12
+candidatos em domínio público e com boa resolução em candidatos/<slug-da-busca>/ (miniatura 640px + index.json).
+2) Lê pedidos.txt (um nome de arquivo do Wikimedia Commons por linha, ex.: File:Luther_at_the_Diet_of_Worms.jpg),
 baixa cada pintura ainda não baixada (até 2400 px de largura) para pinturas/<slug>.jpg,
 salva os metadados em pinturas/<slug>.json e atualiza acervo.json."""
 import json, os, re, sys, time, unicodedata, urllib.parse, urllib.request
@@ -14,7 +16,42 @@ def get(url):
         return r.read()
 
 def limpa(html):
-    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", html or "")).strip()
+    t = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html or "")).strip()
+    t = re.split(r"\s*(?:title|label|date|object_type)\s+QS:", t)[0].strip()
+    t = re.sub(r"^[A-Z][a-zà-ú]+:\s+", "", t)  # "German: ..." -> "..."
+    return t.strip(' "')
+
+PD = re.compile(r"public domain|^pd|cc0|no restrictions", re.I)
+
+def buscar():
+    if not os.path.exists("buscas.txt"): return
+    for linha in open("buscas.txt", encoding="utf-8"):
+        q = linha.split("#", 1)[0].strip()
+        if not q: continue
+        pasta = "candidatos/" + slug("x:" + q + ".x")
+        if os.path.exists(pasta + "/index.json"): continue
+        os.makedirs(pasta, exist_ok=True)
+        params = urllib.parse.urlencode({"action": "query", "generator": "search", "gsrnamespace": 6,
+            "gsrsearch": q + " filetype:bitmap", "gsrlimit": 40, "prop": "imageinfo",
+            "iiprop": "url|size|extmetadata", "iiurlwidth": 640, "format": "json"})
+        paginas = json.loads(get(f"{API}?{params}")).get("query", {}).get("pages", {})
+        cands = []
+        for pg in sorted(paginas.values(), key=lambda p: p.get("index", 99)):
+            ii = (pg.get("imageinfo") or [{}])[0]; meta = ii.get("extmetadata", {})
+            lic = limpa(meta.get("LicenseShortName", {}).get("value"))
+            if not PD.search(lic) or min(ii.get("width", 0), ii.get("height", 0)) < 1100: continue
+            n = len(cands) + 1
+            mini = f"{pasta}/{n:02d}.jpg"
+            open(mini, "wb").write(get(ii["thumburl"])); time.sleep(0.5)
+            cands.append({"n": n, "commons": pg["title"].replace(" ", "_"), "miniatura": mini,
+                "largura": ii["width"], "altura": ii["height"], "licenca": lic,
+                "titulo": limpa(meta.get("ObjectName", {}).get("value")),
+                "artista": limpa(meta.get("Artist", {}).get("value")),
+                "data": limpa(meta.get("DateTimeOriginal", {}).get("value"))})
+            if len(cands) >= 12: break
+        json.dump({"busca": q, "candidatos": cands}, open(pasta + "/index.json", "w", encoding="utf-8"),
+                  ensure_ascii=False, indent=2)
+        print(f"BUSCA '{q}': {len(cands)} candidatos em {pasta}")
 
 def slug(nome):
     s = unicodedata.normalize("NFKD", nome.split(":", 1)[-1].rsplit(".", 1)[0])
@@ -22,6 +59,7 @@ def slug(nome):
     return re.sub(r"[^a-z0-9]+", "-", s).strip("-")[:80]
 
 def main():
+    buscar()
     pedidos = []
     if os.path.exists("pedidos.txt"):
         for linha in open("pedidos.txt", encoding="utf-8"):
