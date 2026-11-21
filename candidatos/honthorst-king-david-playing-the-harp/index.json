@@ -1,0 +1,49 @@
+{
+  "busca": "Honthorst King David playing the harp",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Gerard_van_Honthorst_-_King_David_Playing_the_Harp_-_Google_Art_Project.jpg",
+      "miniatura": "candidatos/honthorst-king-david-playing-the-harp/01.jpg",
+      "largura": 3054,
+      "altura": 3814,
+      "licenca": "Public domain",
+      "titulo": "Harpspelende koning David King David Playing the Harp",
+      "artista": "Gerard van Honthorst",
+      "data": "1622"
+    },
+    {
+      "n": 2,
+      "commons": "File:King_David,_the_King_of_Israel.jpg",
+      "miniatura": "candidatos/honthorst-king-david-playing-the-harp/02.jpg",
+      "largura": 2686,
+      "altura": 3761,
+      "licenca": "Public domain",
+      "titulo": "Harpspelende koning David King David Playing the Harp",
+      "artista": "Gerard van Honthorst",
+      "data": "1622"
+    },
+    {
+      "n": 3,
+      "commons": "File:Gerard_van_Honthorst_-_King_David_Playing_the_Harp_-_Google_Art_ProjectFXD.jpg",
+      "miniatura": "candidatos/honthorst-king-david-playing-the-harp/03.jpg",
+      "largura": 3054,
+      "altura": 3814,
+      "licenca": "Public domain",
+      "titulo": "Harpspelende koning David King David Playing the Harp",
+      "artista": "Gerard van Honthorst",
+      "data": "1622"
+    },
+    {
+      "n": 4,
+      "commons": "File:The_Prophet_Dawud_(David_In_Islam).png",
+      "miniatura": "candidatos/honthorst-king-david-playing-the-harp/04.jpg",
+      "largura": 2048,
+      "altura": 2048,
+      "licenca": "Public domain",
+      "titulo": "The Prophet Dawud (David In Islam)",
+      "artista": "Aziz911q8",
+      "data": "2022-12-05"
+    }
+  ]
+}

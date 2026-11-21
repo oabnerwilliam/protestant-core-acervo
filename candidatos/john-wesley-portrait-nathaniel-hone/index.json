@@ -1,0 +1,27 @@
+{
+  "busca": "John Wesley portrait Nathaniel Hone",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Portret_van_John_Wesley,_RP-P-OB-17.148.jpg",
+      "miniatura": "candidatos/john-wesley-portrait-nathaniel-hone/01.jpg",
+      "largura": 4704,
+      "altura": 6596,
+      "licenca": "CC0",
+      "titulo": "Portret van John Wesley, RP-P-OB-17.148",
+      "artista": "Rijksmuseum",
+      "data": "1770"
+    },
+    {
+      "n": 2,
+      "commons": "File:Portret_van_John_Wesley,_RP-P-OB-17.149.jpg",
+      "miniatura": "candidatos/john-wesley-portrait-nathaniel-hone/02.jpg",
+      "largura": 5204,
+      "altura": 7036,
+      "licenca": "CC0",
+      "titulo": "Portret van John Wesley, RP-P-OB-17.149",
+      "artista": "Rijksmuseum",
+      "data": "1770"
+    }
+  ]
+}

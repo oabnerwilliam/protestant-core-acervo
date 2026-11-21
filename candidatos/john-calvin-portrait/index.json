@@ -1,0 +1,137 @@
+{
+  "busca": "John Calvin portrait",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:John_Calvin_Titian_B.jpg",
+      "miniatura": "candidatos/john-calvin-portrait/01.jpg",
+      "largura": 1362,
+      "altura": 1868,
+      "licenca": "Public domain",
+      "titulo": "Portrait du Titien Portrait of Titian",
+      "artista": "After Cristofano dell'Altissimo",
+      "data": "between 1563 and 1600"
+    },
+    {
+      "n": 2,
+      "commons": "File:Portrait_of_John_Calvin_(1509–1564),_by_anonymous_-_Museum_Catharijneconvent.jpg",
+      "miniatura": "candidatos/john-calvin-portrait/02.jpg",
+      "largura": 3343,
+      "altura": 4640,
+      "licenca": "Public domain",
+      "titulo": "Portret van Johannes Calvijn (1509-1564) Portrait of John Calvin",
+      "artista": "Anonymous ( France ) Unknown author",
+      "data": "Circa 1550"
+    },
+    {
+      "n": 3,
+      "commons": "File:John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png",
+      "miniatura": "candidatos/john-calvin-portrait/03.jpg",
+      "largura": 4457,
+      "altura": 6187,
+      "licenca": "Public domain",
+      "titulo": "Portret van Johannes Calvijn (1509-1564) Portrait of John Calvin",
+      "artista": "Anonymous ( France ) Unknown author",
+      "data": "Circa 1550"
+    },
+    {
+      "n": 4,
+      "commons": "File:Titian_-_Portrait_of_a_Lady_('La_Schiavona')_-_Google_Art_Project.jpg",
+      "miniatura": "candidatos/john-calvin-portrait/04.jpg",
+      "largura": 2505,
+      "altura": 3000,
+      "licenca": "Public domain",
+      "titulo": "La Schiavona La Schiavona",
+      "artista": "Titian",
+      "data": "between circa 1510 and circa 1512"
+    },
+    {
+      "n": 5,
+      "commons": "File:John_Calvin_Coolidge,_Bain_bw_photo_portrait_(1).jpg",
+      "miniatura": "candidatos/john-calvin-portrait/05.jpg",
+      "largura": 3392,
+      "altura": 4523,
+      "licenca": "Public domain",
+      "titulo": "John Calvin Coolidge, Bain bw photo portrait (1)",
+      "artista": "George Grantham Bain",
+      "data": "Unknown date"
+    },
+    {
+      "n": 6,
+      "commons": "File:Portrait_of_John_Calvin_BWB_72.tiff",
+      "miniatura": "candidatos/john-calvin-portrait/06.jpg",
+      "largura": 1855,
+      "altura": 2401,
+      "licenca": "Public domain",
+      "titulo": "Portrait of John Calvin BWB 72",
+      "artista": "Theriat, Henri",
+      "data": "Unknown date"
+    },
+    {
+      "n": 7,
+      "commons": "File:Portrait_of_John_Calvin_BWB_86.tiff",
+      "miniatura": "candidatos/john-calvin-portrait/07.jpg",
+      "largura": 1435,
+      "altura": 1960,
+      "licenca": "Public domain",
+      "titulo": "Portrait of John Calvin BWB 86",
+      "artista": "Étienne-Jehandier Desrochers",
+      "data": "Unknown date"
+    },
+    {
+      "n": 8,
+      "commons": "File:Calvin_Coolidge-by_Garo-1923.jpg",
+      "miniatura": "candidatos/john-calvin-portrait/08.jpg",
+      "largura": 1317,
+      "altura": 1801,
+      "licenca": "Public domain",
+      "titulo": "Calvin Coolidge-by Garo-1923",
+      "artista": "John H. Garo",
+      "data": "circa 1920"
+    },
+    {
+      "n": 9,
+      "commons": "File:John_Calvin_Coolidge,_Bain_bw_photo_portrait.jpg",
+      "miniatura": "candidatos/john-calvin-portrait/09.jpg",
+      "largura": 3392,
+      "altura": 4576,
+      "licenca": "Public domain",
+      "titulo": "John Calvin Coolidge, Bain bw photo portrait",
+      "artista": "George Grantham Bain",
+      "data": "Unknown date"
+    },
+    {
+      "n": 10,
+      "commons": "File:British_-_John_Calvin_-_Google_Art_Project.jpg",
+      "miniatura": "candidatos/john-calvin-portrait/10.jpg",
+      "largura": 2301,
+      "altura": 3074,
+      "licenca": "Public domain",
+      "titulo": "John Calvin",
+      "artista": "British – School Details on Google Art Project",
+      "data": "Inscribed 1564"
+    },
+    {
+      "n": 11,
+      "commons": "File:Calvin_Coolidge,_head-and-shoulders_portrait,_right_profile_LCCN2005676159.jpg",
+      "miniatura": "candidatos/john-calvin-portrait/11.jpg",
+      "largura": 3621,
+      "altura": 5303,
+      "licenca": "Public domain",
+      "titulo": "Calvin Coolidge, head-and-shoulders portrait, right profile LCCN2005676159",
+      "artista": "John H. Garo",
+      "data": "circa 25 October 1923"
+    },
+    {
+      "n": 12,
+      "commons": "File:Beza's_Icones,_contemporary_portraits_of_reformers_of_religion_and_letters_-_John_Calvin_on_page_225.jpg",
+      "miniatura": "candidatos/john-calvin-portrait/12.jpg",
+      "largura": 1225,
+      "altura": 1580,
+      "licenca": "Public domain",
+      "titulo": "Beza's Icones, contemporary portraits of reformers of religion and letters; being facsimile reproductions of the portraits in Beza's Icones (1580) and in Goulard's edition (1581)",
+      "artista": "McCrie, Charles Greig, 1836-1910 Bèze, Théodore de, 1519-1605",
+      "data": ""
+    }
+  ]
+}

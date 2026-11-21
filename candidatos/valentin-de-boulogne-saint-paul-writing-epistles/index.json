@@ -1,0 +1,27 @@
+{
+  "busca": "Valentin de Boulogne Saint Paul writing epistles",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Valentin_de_Boulogne_-_Saint_Paul_Writing_His_Epistles_-_BF.1991.4_-_Museum_of_Fine_Arts.jpg",
+      "miniatura": "candidatos/valentin-de-boulogne-saint-paul-writing-epistles/01.jpg",
+      "largura": 3200,
+      "altura": 2354,
+      "licenca": "Public domain",
+      "titulo": "Saint Paul Writing His Epistles",
+      "artista": "Valentin de Boulogne",
+      "data": "between circa 1618 and circa 1620"
+    },
+    {
+      "n": 2,
+      "commons": "File:Probably_Valentin_de_Boulogne_-_Saint_Paul_Writing_His_Epistles_-_Google_Art_Project.jpg",
+      "miniatura": "candidatos/valentin-de-boulogne-saint-paul-writing-epistles/02.jpg",
+      "largura": 2401,
+      "altura": 1766,
+      "licenca": "Public domain",
+      "titulo": "Saint Paul Writing His Epistles",
+      "artista": "Attributed to Valentin de Boulogne",
+      "data": "between circa 1618 and circa 1620"
+    }
+  ]
+}

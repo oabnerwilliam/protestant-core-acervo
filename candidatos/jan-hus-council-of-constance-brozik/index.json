@@ -1,0 +1,60 @@
+{
+  "busca": "Jan Hus Council of Constance Brozik",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Vaclav_Brozik_-_Hus.jpg",
+      "miniatura": "candidatos/jan-hus-council-of-constance-brozik/01.jpg",
+      "largura": 2144,
+      "altura": 1340,
+      "licenca": "Public domain",
+      "titulo": "Mistr Jan Hus před Kostnickým koncilem.",
+      "artista": "Václav Brožík",
+      "data": "1883"
+    },
+    {
+      "n": 2,
+      "commons": "File:Vaclav_Brozik_-_La_condamnation_de_Jan_Hus_-_Exposition_nationale_de_1883.jpg",
+      "miniatura": "candidatos/jan-hus-council-of-constance-brozik/02.jpg",
+      "largura": 3721,
+      "altura": 2653,
+      "licenca": "CC0",
+      "titulo": "Vaclav Brozik - La condamnation de Jan Hus - Exposition nationale de 1883",
+      "artista": "Renhour48",
+      "data": "2025-02-10"
+    },
+    {
+      "n": 3,
+      "commons": "File:Jan_Hus_vor_dem_Konzil_(nach_Brozik).jpg",
+      "miniatura": "candidatos/jan-hus-council-of-constance-brozik/03.jpg",
+      "largura": 2400,
+      "altura": 1458,
+      "licenca": "Public domain",
+      "titulo": "Jan Hus vor dem Konzil (nach Brozik)",
+      "artista": "After Václav Brožík",
+      "data": "19 th century"
+    },
+    {
+      "n": 4,
+      "commons": "File:Václav_Brožík,_The_Condemnation_of_Jan_Hus.jpg",
+      "miniatura": "candidatos/jan-hus-council-of-constance-brozik/04.jpg",
+      "largura": 2856,
+      "altura": 1800,
+      "licenca": "Public domain",
+      "titulo": "Václav Brožík, The Condemnation of Jan Hus",
+      "artista": "Václav Brožík",
+      "data": "1924"
+    },
+    {
+      "n": 5,
+      "commons": "File:Живописное_обозрение_1885,_№_01-26_(6_янв._-_30_июня);_№_27-52_(7_июля_-_29_дек.)_Page_211.jpg",
+      "miniatura": "candidatos/jan-hus-council-of-constance-brozik/05.jpg",
+      "largura": 2150,
+      "altura": 1500,
+      "licenca": "Public domain",
+      "titulo": "Живописное обозрение 1885, № 01-26 (6 янв. - 30 июня); № 27-52 (7 июля - 29 дек.) Page 211",
+      "artista": "Журнал «Живописное обозрѣнiе странъ свѣта» (1872—1900,1902—1905) / Живописное обозрение стран света [Zhivopisnoye obozreniye stran sveta (Foreign Lands' Pictorial Review)]; Российская национальная библиотека (РНБ); kmv20120",
+      "data": "between 1872 and 1905"
+    }
+  ]
+}
