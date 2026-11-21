@@ -76,3 +76,13 @@ Por causa do único mediador, todo crente pode se aproximar de Deus com confian�
 📜 1 Timóteo 2:5-6 (NVI) · 🎨 Cabeça de Cristo, Rembrandt, c. 1648–1656
 
 #protestantismo #reforma #teologia #fécristã #soluschristus #mediador #sacerdóciodoscrentes #1timóteo #rembrandt
+
+## Variações nas linhas alternativas (pasta `variacoes/`)
+Mesmo texto, pintura e legenda de cada post; muda só o visual. Escolha uma versão por dia.
+- Domingo, Isaías 40:8 → Iluminura
+- Segunda, Calvino → Prensa
+- Terça, Efésios 2:8-9 → Noturno
+- Quarta, Jan Hus → A Porta (com gravura)
+- Quinta, Salmos 46:1 → Iluminura
+- Sexta, Wesley → Prensa
+- Sábado, 1 Timóteo 2:5-6 → Noturno
