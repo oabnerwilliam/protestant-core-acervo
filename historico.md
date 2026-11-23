@@ -15,3 +15,4 @@ data | tipo | referência / autor | pintura
 2026-11-26 | versículo | Salmos 46:1 | O rei Davi tocando harpa (Gerard van Honthorst, 1622)
 2026-11-27 | citação | John Wesley, Diário, 24/05/1738 (Aldersgate) | Retrato de John Wesley (gravura, 1770, Rijksmuseum)
 2026-11-28 | versículo | 1 Timóteo 2:5-6 | Cabeça de Cristo (Rembrandt, c. 1648–56)
+2026-11-23 | carrossel (a porta) | "O que Lutero pregou na porta?" (95 teses, 1517: teses 1 e 62; Rm 1:17) | Retrato de Martinho Lutero (Lucas Cranach, o Velho, 1528); 95 teses, impressão de Basileia (1517)
