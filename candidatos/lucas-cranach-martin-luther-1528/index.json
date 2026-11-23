@@ -1,0 +1,93 @@
+{
+  "busca": "Lucas Cranach Martin Luther 1528",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Lucas_Cranach_d.Ä._-_Martin_Luther,_1528_(Veste_Coburg).jpg",
+      "miniatura": "candidatos/lucas-cranach-martin-luther-1528/01.jpg",
+      "largura": 2148,
+      "altura": 3400,
+      "licenca": "Public domain",
+      "titulo": "Portrait of Martin Luther",
+      "artista": "Lucas Cranach the Elder",
+      "data": "1528"
+    },
+    {
+      "n": 2,
+      "commons": "File:Lucas_Cranach_d.Ä._(Werkst.)_-_Porträt_des_Martin_Luther_(Lutherhaus_Wittenberg).jpg",
+      "miniatura": "candidatos/lucas-cranach-martin-luther-1528/02.jpg",
+      "largura": 1371,
+      "altura": 2000,
+      "licenca": "Public domain",
+      "titulo": "Portrait of Martin Luther",
+      "artista": "Workshop of Lucas Cranach the Elder",
+      "data": "1528"
+    },
+    {
+      "n": 3,
+      "commons": "File:Lucas_Cranach_d.Ä._-_Martin_Luther,_1528_(Veste_Coburg)_(3x4_cropped).jpg",
+      "miniatura": "candidatos/lucas-cranach-martin-luther-1528/03.jpg",
+      "largura": 2148,
+      "altura": 2862,
+      "licenca": "Public domain",
+      "titulo": "Portrait of Martin Luther",
+      "artista": "Lucas Cranach the Elder",
+      "data": "1528"
+    },
+    {
+      "n": 4,
+      "commons": "File:Lucas_Cranach_d.Ä._-_Martin_Luther,_1528_(Veste_Coburg)_(cropped).jpg",
+      "miniatura": "candidatos/lucas-cranach-martin-luther-1528/04.jpg",
+      "largura": 1999,
+      "altura": 2363,
+      "licenca": "Public domain",
+      "titulo": "Portrait of Martin Luther (detail)",
+      "artista": "Lucas Cranach the Elder",
+      "data": "1528"
+    },
+    {
+      "n": 5,
+      "commons": "File:Cranach,_Lucas_d._Ä._(Werkstatt)_-_Martin_Luther_(1483–1546),_1528,_G_559.jpg",
+      "miniatura": "candidatos/lucas-cranach-martin-luther-1528/05.jpg",
+      "largura": 1219,
+      "altura": 1600,
+      "licenca": "Public domain",
+      "titulo": "Cranach, Lucas d. Ä. (Werkstatt) - Martin Luther (1483–1546), 1528, G 559",
+      "artista": "Lucas Cranach the Elder",
+      "data": ""
+    },
+    {
+      "n": 6,
+      "commons": "File:Lucas_Cranach_(I)_-_Katharina_von_Bora_als_Brustbildbnis_nach_links_(Veste_Coburg).jpg",
+      "miniatura": "candidatos/lucas-cranach-martin-luther-1528/06.jpg",
+      "largura": 2292,
+      "altura": 3610,
+      "licenca": "Public domain",
+      "titulo": "Katharina von Bora als Brustbildbnis nach links Portrait of Katharina of Bora",
+      "artista": "Lucas Cranach the Elder",
+      "data": "1528"
+    },
+    {
+      "n": 7,
+      "commons": "File:Martin_Luther_BnW.png",
+      "miniatura": "candidatos/lucas-cranach-martin-luther-1528/07.jpg",
+      "largura": 2550,
+      "altura": 3300,
+      "licenca": "Public domain",
+      "titulo": "Martin Luther BnW",
+      "artista": "GalleriX",
+      "data": "2025-02-24"
+    },
+    {
+      "n": 8,
+      "commons": "File:1528MartinLuther.jpg",
+      "miniatura": "candidatos/lucas-cranach-martin-luther-1528/08.jpg",
+      "largura": 3303,
+      "altura": 2599,
+      "licenca": "Public domain",
+      "titulo": "Martin Luther detail",
+      "artista": "Workshop of Lucas Cranach the Elder",
+      "data": "1528"
+    }
+  ]
+}

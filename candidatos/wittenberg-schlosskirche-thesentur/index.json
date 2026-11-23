@@ -1,0 +1,71 @@
+{
+  "busca": "Wittenberg Schlosskirche Thesentür",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Wittenberg,_Schlosskirche_(Juni_2026)_1.jpg",
+      "miniatura": "candidatos/wittenberg-schlosskirche-thesentur/01.jpg",
+      "largura": 4984,
+      "altura": 3323,
+      "licenca": "CC0",
+      "titulo": "Wittenberg, Schlosskirche (Juni 2026) 1",
+      "artista": "Romzig",
+      "data": "2026-06-15 09:08:27"
+    },
+    {
+      "n": 2,
+      "commons": "File:Wittenberg,_Schlosskirche_(Juni_2026)_3.jpg",
+      "miniatura": "candidatos/wittenberg-schlosskirche-thesentur/02.jpg",
+      "largura": 5343,
+      "altura": 3562,
+      "licenca": "CC0",
+      "titulo": "Wittenberg, Schlosskirche (Juni 2026) 3",
+      "artista": "Romzig",
+      "data": "2026-06-15 09:10:20"
+    },
+    {
+      "n": 3,
+      "commons": "File:Wittenberg,_Schlosskirche_(Juni_2026)_2.jpg",
+      "miniatura": "candidatos/wittenberg-schlosskirche-thesentur/03.jpg",
+      "largura": 5504,
+      "altura": 3669,
+      "licenca": "CC0",
+      "titulo": "Wittenberg, Schlosskirche (Juni 2026) 2",
+      "artista": "Romzig",
+      "data": "2026-06-15 09:09:45"
+    },
+    {
+      "n": 4,
+      "commons": "File:Wittenberg_Schlosskirche_Thesentuer.JPG",
+      "miniatura": "candidatos/wittenberg-schlosskirche-thesentur/04.jpg",
+      "largura": 1200,
+      "altura": 1600,
+      "licenca": "Public domain",
+      "titulo": "Wittenberg Schlosskirche Thesentuer",
+      "artista": "User:Cethegus",
+      "data": "2005-08-17"
+    },
+    {
+      "n": 5,
+      "commons": "File:Wittenberg_Castle_Church_Door_(9813219355).jpg",
+      "miniatura": "candidatos/wittenberg-schlosskirche-thesentur/05.jpg",
+      "largura": 1156,
+      "altura": 1590,
+      "licenca": "CC0",
+      "titulo": "Wittenberg Castle Church Door (9813219355)",
+      "artista": "Gary Todd from Xinzheng, China",
+      "data": "2001-06-18 03:46"
+    },
+    {
+      "n": 6,
+      "commons": "File:Wittenberg_Castle_Church_Door,_Where_Luther_Posted_His_95_Theses_(9813300413).jpg",
+      "miniatura": "candidatos/wittenberg-schlosskirche-thesentur/06.jpg",
+      "largura": 1108,
+      "altura": 1530,
+      "licenca": "CC0",
+      "titulo": "Wittenberg Castle Church Door, Where Luther Posted His 95 Theses (9813300413)",
+      "artista": "Gary Todd from Xinzheng, China",
+      "data": "2001-06-18 16:43"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "busca": "Thesenanschlag Luther",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Ninety-five_Theses_(Basel).jpg",
+      "miniatura": "candidatos/thesenanschlag-luther/01.jpg",
+      "largura": 1200,
+      "altura": 1636,
+      "licenca": "Public domain",
+      "titulo": "Ninety-five Theses (Basel)",
+      "artista": "Martin Luther",
+      "data": "1517"
+    },
+    {
+      "n": 2,
+      "commons": "File:Luther_95_Thesen.png",
+      "miniatura": "candidatos/thesenanschlag-luther/02.jpg",
+      "largura": 3228,
+      "altura": 4611,
+      "licenca": "Public domain",
+      "titulo": "Amore et studio elucidande veritatis",
+      "artista": "Martin Luther",
+      "data": ""
+    },
+    {
+      "n": 3,
+      "commons": "File:Wittenberg_Castle_Church_Door,_Where_Luther_Posted_His_95_Theses_(9813300413).jpg",
+      "miniatura": "candidatos/thesenanschlag-luther/03.jpg",
+      "largura": 1108,
+      "altura": 1530,
+      "licenca": "CC0",
+      "titulo": "Wittenberg Castle Church Door, Where Luther Posted His 95 Theses (9813300413)",
+      "artista": "Gary Todd from Xinzheng, China",
+      "data": "2001-06-18 16:43"
+    },
+    {
+      "n": 4,
+      "commons": "File:Flugblatt-Luther-Thesen.jpg",
+      "miniatura": "candidatos/thesenanschlag-luther/04.jpg",
+      "largura": 1912,
+      "altura": 3268,
+      "licenca": "Public domain",
+      "titulo": "Flugblatt-Luther-Thesen",
+      "artista": "C.G. (sculpsit); Henning Grosse (typis); Georg Liger (printer)",
+      "data": "1617"
+    },
+    {
+      "n": 5,
+      "commons": "File:Wittenberg_Schlosskirche_Thesentuer.JPG",
+      "miniatura": "candidatos/thesenanschlag-luther/05.jpg",
+      "largura": 1200,
+      "altura": 1600,
+      "licenca": "Public domain",
+      "titulo": "Wittenberg Schlosskirche Thesentuer",
+      "artista": "User:Cethegus",
+      "data": "2005-08-17"
+    }
+  ]
+}
