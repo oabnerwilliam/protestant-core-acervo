@@ -207,5 +207,27 @@
     "licenca": "CC0",
     "largura_original": 4704,
     "altura_original": 6596
+  },
+  {
+    "commons": "File:Ninety-five_Theses_(Basel).jpg",
+    "arquivo": "pinturas/ninety-five-theses-basel.jpg",
+    "pagina": "https://commons.wikimedia.org/wiki/File%3ANinety-five_Theses_%28Basel%29.jpg",
+    "titulo": "Ninety-five Theses (Basel)",
+    "artista": "Martin Luther",
+    "data": "1517",
+    "licenca": "Public domain",
+    "largura_original": 1200,
+    "altura_original": 1636
+  },
+  {
+    "commons": "File:Lucas_Cranach_d.Ä._-_Martin_Luther,_1528_(Veste_Coburg).jpg",
+    "arquivo": "pinturas/lucas-cranach-d-a-martin-luther-1528-veste-coburg.jpg",
+    "pagina": "https://commons.wikimedia.org/wiki/File%3ALucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
+    "titulo": "Portrait of Martin Luther",
+    "artista": "Lucas Cranach the Elder",
+    "data": "1528",
+    "licenca": "Public domain",
+    "largura_original": 2148,
+    "altura_original": 3400
   }
 ]
