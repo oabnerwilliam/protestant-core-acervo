@@ -229,5 +229,38 @@
     "licenca": "Public domain",
     "largura_original": 2148,
     "altura_original": 3400
+  },
+  {
+    "commons": "File:Christ_in_Gethsemane.jpg",
+    "arquivo": "pinturas/christ-in-gethsemane.jpg",
+    "pagina": "https://commons.wikimedia.org/wiki/File%3AChrist_in_Gethsemane.jpg",
+    "titulo": "Christ in Gethsemane",
+    "artista": "Heinrich Hofmann",
+    "data": "1886",
+    "licenca": "Public domain",
+    "largura_original": 1141,
+    "altura_original": 1600
+  },
+  {
+    "commons": "File:Albrecht_Dürer_-_Praying_Hands,_1508_-_Google_Art_Project.jpg",
+    "arquivo": "pinturas/albrecht-durer-praying-hands-1508-google-art-project.jpg",
+    "pagina": "https://commons.wikimedia.org/wiki/File%3AAlbrecht_D%C3%BCrer_-_Praying_Hands%2C_1508_-_Google_Art_Project.jpg",
+    "titulo": "Praying Hands",
+    "artista": "Albrecht Dürer",
+    "data": "1508",
+    "licenca": "Public domain",
+    "largura_original": 2680,
+    "altura_original": 3900
+  },
+  {
+    "commons": "File:Lucas_Cranach_d.Ä._-_Reformationsaltar,_St._Marien_zu_Wittenberg_-_Predella_-_Detail_links.jpg",
+    "arquivo": "pinturas/lucas-cranach-d-a-reformationsaltar-st-marien-zu-wittenberg-predella-detail-link.jpg",
+    "pagina": "https://commons.wikimedia.org/wiki/File%3ALucas_Cranach_d.%C3%84._-_Reformationsaltar%2C_St._Marien_zu_Wittenberg_-_Predella_-_Detail_links.jpg",
+    "titulo": "People listening to Martin Luther’s sermon",
+    "artista": "Lucas Cranach the Younger and workshop / Lucas Cranach the Elder",
+    "data": "between 1547 and 1548",
+    "licenca": "Public domain",
+    "largura_original": 2410,
+    "altura_original": 3278
   }
 ]
