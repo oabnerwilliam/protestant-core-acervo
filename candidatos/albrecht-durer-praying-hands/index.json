@@ -1,0 +1,93 @@
+{
+  "busca": "Albrecht Dürer Praying Hands",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Albrecht_Dürer_-_Praying_Hands,_1508_-_Google_Art_Project.jpg",
+      "miniatura": "candidatos/albrecht-durer-praying-hands/01.jpg",
+      "largura": 2680,
+      "altura": 3900,
+      "licenca": "Public domain",
+      "titulo": "Praying Hands",
+      "artista": "Albrecht Dürer",
+      "data": "1508"
+    },
+    {
+      "n": 2,
+      "commons": "File:Albrecht_Dürer_-_Praying_Hands,_1508_-_Google_Art_Project_(cropped_4x5).jpg",
+      "miniatura": "candidatos/albrecht-durer-praying-hands/02.jpg",
+      "largura": 2434,
+      "altura": 3036,
+      "licenca": "Public domain",
+      "titulo": "Praying Hands",
+      "artista": "Albrecht Dürer",
+      "data": "1508"
+    },
+    {
+      "n": 3,
+      "commons": "File:Albrecht_Dürer_038.jpg",
+      "miniatura": "candidatos/albrecht-durer-praying-hands/03.jpg",
+      "largura": 2400,
+      "altura": 2239,
+      "licenca": "Public domain",
+      "titulo": "Heller Altarpiece",
+      "artista": "Albrecht Dürer",
+      "data": "between 1507 and 1509"
+    },
+    {
+      "n": 4,
+      "commons": "File:Albrecht_Dürer_040.jpg",
+      "miniatura": "candidatos/albrecht-durer-praying-hands/04.jpg",
+      "largura": 2400,
+      "altura": 2240,
+      "licenca": "Public domain",
+      "titulo": "Heller Altarpiece",
+      "artista": "Albrecht Dürer",
+      "data": "between 1507 and 1509"
+    },
+    {
+      "n": 5,
+      "commons": "File:Albrecht_Dürer_016.jpg",
+      "miniatura": "candidatos/albrecht-durer-praying-hands/05.jpg",
+      "largura": 1576,
+      "altura": 2048,
+      "licenca": "Public domain",
+      "titulo": "Die Fürlegerin mit offenem Haar",
+      "artista": "Albrecht Dürer",
+      "data": "1497"
+    },
+    {
+      "n": 6,
+      "commons": "File:Rubens_Praying_Hands.jpg",
+      "miniatura": "candidatos/albrecht-durer-praying-hands/06.jpg",
+      "largura": 2684,
+      "altura": 1744,
+      "licenca": "Public domain",
+      "titulo": "Rubens Praying Hands",
+      "artista": "Peter Paul Rubens",
+      "data": "circa 1600"
+    },
+    {
+      "n": 7,
+      "commons": "File:Praying_Hands_(203102687).jpeg",
+      "miniatura": "candidatos/albrecht-durer-praying-hands/07.jpg",
+      "largura": 2048,
+      "altura": 1123,
+      "licenca": "CC0",
+      "titulo": "Praying Hands",
+      "artista": "Ramkumar Radhakrishnan",
+      "data": "7 July 2016, 10:56:07"
+    },
+    {
+      "n": 8,
+      "commons": "File:Harrich,_Jobst_-_Heller-Altar-_Innenseite_des_Triptychons,_Teilansicht_unten_rechts.JPG",
+      "miniatura": "candidatos/albrecht-durer-praying-hands/08.jpg",
+      "largura": 3005,
+      "altura": 2592,
+      "licenca": "Public domain",
+      "titulo": "Heller Altarpiece",
+      "artista": "Jobst Harrich",
+      "data": "circa between 1614 and 1617"
+    }
+  ]
+}

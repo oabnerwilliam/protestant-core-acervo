@@ -1,0 +1,38 @@
+{
+  "busca": "Christ praying Gethsemane Heinrich Hofmann",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Christ_in_Gethsemane.jpg",
+      "miniatura": "candidatos/christ-praying-gethsemane-heinrich-hofmann/01.jpg",
+      "largura": 1141,
+      "altura": 1600,
+      "licenca": "Public domain",
+      "titulo": "Christ in Gethsemane",
+      "artista": "Heinrich Hofmann",
+      "data": "1886"
+    },
+    {
+      "n": 2,
+      "commons": "File:Painting_of_Christ_in_Gethsemane.jpg",
+      "miniatura": "candidatos/christ-praying-gethsemane-heinrich-hofmann/02.jpg",
+      "largura": 2057,
+      "altura": 1849,
+      "licenca": "Public domain",
+      "titulo": "Painting of Christ in Gethsemane",
+      "artista": "Unknown author Unknown author",
+      "data": "21 March 2010 (photo)"
+    },
+    {
+      "n": 3,
+      "commons": "File:The_art_Bible,_comprising_the_Old_and_new_Testaments_-_with_numerous_illustrations_(1896)_(14596509838).jpg",
+      "miniatura": "candidatos/christ-praying-gethsemane-heinrich-hofmann/03.jpg",
+      "largura": 2008,
+      "altura": 2710,
+      "licenca": "No restrictions",
+      "titulo": "The art Bible, comprising the Old and new Testaments - with numerous illustrations (1896) (14596509838)",
+      "artista": "Internet Archive Book Images",
+      "data": "1896"
+    }
+  ]
+}
