@@ -16,3 +16,4 @@ data | tipo | referência / autor | pintura
 2026-11-27 | citação | John Wesley, Diário, 24/05/1738 (Aldersgate) | Retrato de John Wesley (gravura, 1770, Rijksmuseum)
 2026-11-28 | versículo | 1 Timóteo 2:5-6 | Cabeça de Cristo (Rembrandt, c. 1648–56)
 2026-11-23 | carrossel (a porta) | "O que Lutero pregou na porta?" (95 teses, 1517: teses 1 e 62; Rm 1:17) | Retrato de Martinho Lutero (Lucas Cranach, o Velho, 1528); 95 teses, impressão de Basileia (1517)
+2026-11-25 | carrossel (noturno) | "Como devo orar?" — Lutero, Como se deve orar (1535, a Pedro Beskendorf); Lc 11:1-2 | Cristo no Getsêmani (Heinrich Hofmann, 1886); Mãos em oração (Albrecht Dürer, 1508); Pessoas ouvindo o sermão de Lutero, predela do Altar da Reforma (Cranach, 1547–48)
