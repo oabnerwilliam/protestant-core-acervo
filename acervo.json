@@ -262,5 +262,38 @@
     "licenca": "Public domain",
     "largura_original": 2410,
     "altura_original": 3278
+  },
+  {
+    "commons": "File:Rembrandt_Harmensz._van_Rijn_-_The_Return_of_the_Prodigal_Son.jpg",
+    "arquivo": "pinturas/rembrandt-harmensz-van-rijn-the-return-of-the-prodigal-son.jpg",
+    "pagina": "https://commons.wikimedia.org/wiki/File%3ARembrandt_Harmensz._van_Rijn_-_The_Return_of_the_Prodigal_Son.jpg",
+    "titulo": "The Return of the Prodigal Son",
+    "artista": "Rembrandt",
+    "data": "circa 1668",
+    "licenca": "Public domain",
+    "largura_original": 6347,
+    "altura_original": 8140
+  },
+  {
+    "commons": "File:Return_of_the_Prodigal_Son_1667-1670_Murillo.jpg",
+    "arquivo": "pinturas/return-of-the-prodigal-son-1667-1670-murillo.jpg",
+    "pagina": "https://commons.wikimedia.org/wiki/File%3AReturn_of_the_Prodigal_Son_1667-1670_Murillo.jpg",
+    "titulo": "The Return of the Prodigal Son",
+    "artista": "Bartolomé Esteban Murillo",
+    "data": "between 1667 and 1670",
+    "licenca": "Public domain",
+    "largura_original": 4000,
+    "altura_original": 3611
+  },
+  {
+    "commons": "File:Albrecht_Dürer,_The_Prodigal_Son,_c._1496,_NGA_6577.jpg",
+    "arquivo": "pinturas/albrecht-durer-the-prodigal-son-c-1496-nga-6577.jpg",
+    "pagina": "https://commons.wikimedia.org/wiki/File%3AAlbrecht_D%C3%BCrer%2C_The_Prodigal_Son%2C_c._1496%2C_NGA_6577.jpg",
+    "titulo": "The Prodigal Son",
+    "artista": "Albrecht Dürer",
+    "data": "circa 1496",
+    "licenca": "CC0",
+    "largura_original": 3087,
+    "altura_original": 4000
   }
 ]
