@@ -1,0 +1,60 @@
+{
+  "busca": "Saint John the Evangelist on Patmos Velázquez",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Diego_Velázquez_018_(John_the_Evangelist_from_Patmos).jpg",
+      "miniatura": "candidatos/saint-john-the-evangelist-on-patmos-velazquez/01.jpg",
+      "largura": 3178,
+      "altura": 4226,
+      "licenca": "Public domain",
+      "titulo": "Hl. Evangelist Johannes auf Patmos'",
+      "artista": "Diego Velázquez",
+      "data": "1619-1620"
+    },
+    {
+      "n": 2,
+      "commons": "File:San_Juan_Evangelista_en_Patmos,_by_Diego_Velázquez.jpg",
+      "miniatura": "candidatos/saint-john-the-evangelist-on-patmos-velazquez/02.jpg",
+      "largura": 1162,
+      "altura": 1600,
+      "licenca": "Public domain",
+      "titulo": "San Juan Evangelista en Patmos",
+      "artista": "Diego Velázquez",
+      "data": "Unknown date; author died 1660"
+    },
+    {
+      "n": 3,
+      "commons": "File:Jan_Massijs_-_The_Apocalypse_of_Saint_John_the_Evangelist_(1563).jpg",
+      "miniatura": "candidatos/saint-john-the-evangelist-on-patmos-velazquez/03.jpg",
+      "largura": 2000,
+      "altura": 1584,
+      "licenca": "Public domain",
+      "titulo": "The Apocalypse of Saint John the Evangelist on the Island of Patmos",
+      "artista": "Jan Matsys",
+      "data": "1563"
+    },
+    {
+      "n": 4,
+      "commons": "File:Maino_San_Juan_Evangelista._Museo_del_Prado.jpg",
+      "miniatura": "candidatos/saint-john-the-evangelist-on-patmos-velazquez/04.jpg",
+      "largura": 3189,
+      "altura": 1427,
+      "licenca": "Public domain",
+      "titulo": "Saint John the Evangelist in Patmos",
+      "artista": "Juan Bautista Maíno",
+      "data": "between 1612 and 1614"
+    },
+    {
+      "n": 5,
+      "commons": "File:Budapest_kunst_0003.tif",
+      "miniatura": "candidatos/saint-john-the-evangelist-on-patmos-velazquez/05.jpg",
+      "largura": 3116,
+      "altura": 3087,
+      "licenca": "Public domain",
+      "titulo": "The evangelist John at Patmos",
+      "artista": "Francesco Granacci",
+      "data": "Unknown date"
+    }
+  ]
+}

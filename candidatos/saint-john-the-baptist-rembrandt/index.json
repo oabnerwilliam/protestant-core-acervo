@@ -1,0 +1,104 @@
+{
+  "busca": "Saint John the Baptist Rembrandt",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Rembrandt_Harmensz._van_Rijn_-_Preaching_of_Saint_John_the_Baptist_-_Gemäldegalerie_Berlin.jpg",
+      "miniatura": "candidatos/saint-john-the-baptist-rembrandt/01.jpg",
+      "largura": 2536,
+      "altura": 1946,
+      "licenca": "Public domain",
+      "titulo": "The preaching/sermon of St. John the Baptist",
+      "artista": "Rembrandt",
+      "data": "between circa 1634 and circa 1635"
+    },
+    {
+      "n": 2,
+      "commons": "File:Die_Predigt_Johannes_des_Täufers_-_Gemäldegalerie_Berlin_-_5250855.jpg",
+      "miniatura": "candidatos/saint-john-the-baptist-rembrandt/02.jpg",
+      "largura": 2270,
+      "altura": 1800,
+      "licenca": "Public domain",
+      "titulo": "Vrouw bij een deuropening John the Baptist Preaching",
+      "artista": "Rembrandt",
+      "data": "between 1634 and 1635"
+    },
+    {
+      "n": 3,
+      "commons": "File:Rembrandt,_predica_del_battista,_1634-35_ca._02.jpg",
+      "miniatura": "candidatos/saint-john-the-baptist-rembrandt/03.jpg",
+      "largura": 3456,
+      "altura": 2304,
+      "licenca": "Public domain",
+      "titulo": "Rembrandt, predica del battista, 1634-35 ca. 02",
+      "artista": "Sailko",
+      "data": "2014-03-06"
+    },
+    {
+      "n": 4,
+      "commons": "File:The_Preaching_of_Saint_John_the_Baptist_by_Cornelis_van_Haarlem.jpg",
+      "miniatura": "candidatos/saint-john-the-baptist-rembrandt/04.jpg",
+      "largura": 6000,
+      "altura": 3285,
+      "licenca": "Public domain",
+      "titulo": "The Preaching of Saint John the Baptist",
+      "artista": "Cornelis van Haarlem",
+      "data": "1602"
+    },
+    {
+      "n": 5,
+      "commons": "File:John_the_Baptist_Preaching_by_Auguste_Rodin,_V&A_Museum_02.jpg",
+      "miniatura": "candidatos/saint-john-the-baptist-rembrandt/05.jpg",
+      "largura": 3209,
+      "altura": 4512,
+      "licenca": "CC0",
+      "titulo": "John the Baptist Preaching by Auguste Rodin, V&A Museum 02",
+      "artista": "14GTR",
+      "data": "2025-02-23 14:28:40"
+    },
+    {
+      "n": 6,
+      "commons": "File:John_the_Baptist_Preaching_by_Auguste_Rodin,_V&A_Museum_01.jpg",
+      "miniatura": "candidatos/saint-john-the-baptist-rembrandt/06.jpg",
+      "largura": 3385,
+      "altura": 4772,
+      "licenca": "CC0",
+      "titulo": "John the Baptist Preaching by Auguste Rodin, V&A Museum 01",
+      "artista": "14GTR",
+      "data": "2025-02-23 14:28:40"
+    },
+    {
+      "n": 7,
+      "commons": "File:Pieter_Brueghel_(II)_-_St_John_the_Baptist_Preaching,_Groeningemuseum.jpg",
+      "miniatura": "candidatos/saint-john-the-baptist-rembrandt/07.jpg",
+      "largura": 1584,
+      "altura": 1116,
+      "licenca": "Public domain",
+      "titulo": "St John the Baptist Preaching",
+      "artista": "Pieter Brueghel the Younger",
+      "data": "17th century (after 1616)"
+    },
+    {
+      "n": 8,
+      "commons": "File:John_the_Baptist_Preaching_in_the_Desert_MET_DP820756.jpg",
+      "miniatura": "candidatos/saint-john-the-baptist-rembrandt/08.jpg",
+      "largura": 3740,
+      "altura": 2752,
+      "licenca": "CC0",
+      "titulo": "John the Baptist Preaching in the Desert",
+      "artista": "Nicolaes de Bruyn / Lucas van Leyden",
+      "data": "circa 1527"
+    },
+    {
+      "n": 9,
+      "commons": "File:Saint_John_the_Baptist_Preaching_LACMA_M.73.108.12.jpg",
+      "miniatura": "candidatos/saint-john-the-baptist-rembrandt/09.jpg",
+      "largura": 1553,
+      "altura": 2100,
+      "licenca": "Public domain",
+      "titulo": "Saint John the Baptist Preaching",
+      "artista": "Auguste Rodin (France, 1840-1917)",
+      "data": "This cast 1966 (Musee Rodin 6/12)"
+    }
+  ]
+}
