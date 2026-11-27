@@ -1,0 +1,82 @@
+{
+  "busca": "Pharisee and the Publican painting",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Pharisee_and_the_Publican.png",
+      "miniatura": "candidatos/pharisee-and-the-publican-painting/01.jpg",
+      "largura": 1440,
+      "altura": 1780,
+      "licenca": "Public domain",
+      "titulo": "Pharisee and the Publican",
+      "artista": "Venediktos Emporios",
+      "data": "1600-1628"
+    },
+    {
+      "n": 2,
+      "commons": "File:Dirck_van_Delen_-_Church_Interior_with_the_Parable_of_the_Pharisee_and_the_Publican_(Luke_18-9-14)_-_1981.63_-_Clark_Art_Institute.tiff",
+      "miniatura": "candidatos/pharisee-and-the-publican-painting/02.jpg",
+      "largura": 3164,
+      "altura": 2708,
+      "licenca": "Public domain",
+      "titulo": "Church Interior with the Parable of the Pharisee and the Publican (Luke 18:9-14)",
+      "artista": "Dirck van Delen",
+      "data": "1653"
+    },
+    {
+      "n": 3,
+      "commons": "File:De_Farizeeër_en_de_tollenaar_Rijksmuseum_SK-A-2959.jpeg",
+      "miniatura": "candidatos/pharisee-and-the-publican-painting/03.jpg",
+      "largura": 6102,
+      "altura": 1986,
+      "licenca": "Public domain",
+      "titulo": "De Farizeeër en de tollenaar",
+      "artista": "Barent Fabritius",
+      "data": "1661"
+    },
+    {
+      "n": 4,
+      "commons": "File:Abraham_de_Bruyn,_Crispijn_van_den_Broeck_(after)_-_Parable_of_the_publican_and_the_Pharisee.jpg",
+      "miniatura": "candidatos/pharisee-and-the-publican-painting/04.jpg",
+      "largura": 3748,
+      "altura": 5148,
+      "licenca": "Public domain",
+      "titulo": "Parable of the publican and the Pharisee",
+      "artista": "Abraham de Bruyn / After Chrispijn van den Broeck",
+      "data": "1583"
+    },
+    {
+      "n": 5,
+      "commons": "File:Gospel_Book,_Publican_and_the_Pharisee,_Walters_Manuscript_W.540,_fol._179r.jpg",
+      "miniatura": "candidatos/pharisee-and-the-publican-painting/05.jpg",
+      "largura": 1178,
+      "altura": 1800,
+      "licenca": "CC0",
+      "titulo": "Gospel Book, Publican and the Pharisee, Walters Manuscript W.540, fol. 179r",
+      "artista": "Walters Art Museum Illuminated Manuscripts",
+      "data": "2013-02-26"
+    },
+    {
+      "n": 6,
+      "commons": "File:Studio_of_Rembrandt_van_Rijn,_The_Parable_of_the_Publican_and_the_Pharisee,_1645-1655,_NGA_75824.jpg",
+      "miniatura": "candidatos/pharisee-and-the-publican-painting/06.jpg",
+      "largura": 3299,
+      "altura": 3631,
+      "licenca": "CC0",
+      "titulo": "The Parable of the Publican and the Pharisee",
+      "artista": "Studio of Rembrandt van Rijn",
+      "data": "1645/1655"
+    },
+    {
+      "n": 7,
+      "commons": "File:Sjösås,_takmålning.JPG",
+      "miniatura": "candidatos/pharisee-and-the-publican-painting/07.jpg",
+      "largura": 2592,
+      "altura": 3872,
+      "licenca": "Public domain",
+      "titulo": "Sjösås, takmålning",
+      "artista": "Pieter Kuiper",
+      "data": "2011-08-13"
+    }
+  ]
+}

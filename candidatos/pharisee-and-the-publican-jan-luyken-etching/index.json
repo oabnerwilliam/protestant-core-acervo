@@ -1,0 +1,38 @@
+{
+  "busca": "Pharisee and the Publican Jan Luyken etching",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Gelijkenis_van_een_farizeeër_en_een_tollenaar,_RP-P-OB-44.953.jpg",
+      "miniatura": "candidatos/pharisee-and-the-publican-jan-luyken-etching/01.jpg",
+      "largura": 5072,
+      "altura": 3854,
+      "licenca": "CC0",
+      "titulo": "Gelijkenis van een farizeeër en een tollenaar, RP-P-OB-44.953",
+      "artista": "Rijksmuseum",
+      "data": "1700"
+    },
+    {
+      "n": 2,
+      "commons": "File:Gelijkenis_van_een_farizeeër_en_een_tollenaar,_RP-P-OB-44.952.jpg",
+      "miniatura": "candidatos/pharisee-and-the-publican-jan-luyken-etching/02.jpg",
+      "largura": 5176,
+      "altura": 3968,
+      "licenca": "CC0",
+      "titulo": "Gelijkenis van een farizeeër en een tollenaar, RP-P-OB-44.952",
+      "artista": "Rijksmuseum",
+      "data": "1700"
+    },
+    {
+      "n": 3,
+      "commons": "File:Blad_met_twee_vignetten,_RP-P-2018-857-2-7.jpg",
+      "miniatura": "candidatos/pharisee-and-the-publican-jan-luyken-etching/03.jpg",
+      "largura": 4640,
+      "altura": 6860,
+      "licenca": "CC0",
+      "titulo": "Blad met twee vignetten, RP-P-2018-857-2-7",
+      "artista": "Rijksmuseum",
+      "data": "1700"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "busca": "Publican praying in the temple engraving",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Abraham_de_Bruyn,_Crispijn_van_den_Broeck_(after)_-_Parable_of_the_publican_and_the_Pharisee.jpg",
+      "miniatura": "candidatos/publican-praying-in-the-temple-engraving/01.jpg",
+      "largura": 3748,
+      "altura": 5148,
+      "licenca": "Public domain",
+      "titulo": "Parable of the publican and the Pharisee",
+      "artista": "Abraham de Bruyn / After Chrispijn van den Broeck",
+      "data": "1583"
+    },
+    {
+      "n": 2,
+      "commons": "File:Allegorie_op_de_barmhartigheid_van_Christus_Misericordiarvm_domini_effigies_(titel_op_object),_RP-P-OB-66.894.jpg",
+      "miniatura": "candidatos/publican-praying-in-the-temple-engraving/02.jpg",
+      "largura": 5776,
+      "altura": 7228,
+      "licenca": "CC0",
+      "titulo": "Allegorie op de barmhartigheid van Christus Misericordiarvm domini effigies (titel op object), RP-P-OB-66.894",
+      "artista": "Rijksmuseum",
+      "data": "1581"
+    },
+    {
+      "n": 3,
+      "commons": "File:Joden_in_een_synagoge,_RP-P-2006-101.jpg",
+      "miniatura": "candidatos/publican-praying-in-the-temple-engraving/03.jpg",
+      "largura": 4310,
+      "altura": 3562,
+      "licenca": "CC0",
+      "titulo": "Joden in een synagoge, RP-P-2006-101",
+      "artista": "Rijksmuseum",
+      "data": "1859"
+    },
+    {
+      "n": 4,
+      "commons": "File:Bijbelsche_kinderprenten,_RP-P-OB-204.004.jpg",
+      "miniatura": "candidatos/publican-praying-in-the-temple-engraving/04.jpg",
+      "largura": 4480,
+      "altura": 5774,
+      "licenca": "CC0",
+      "titulo": "Bijbelsche kinderprenten, RP-P-OB-204.004",
+      "artista": "Rijksmuseum",
+      "data": "between 1869 and 1908"
+    }
+  ]
+}
