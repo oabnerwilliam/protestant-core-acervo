@@ -1,0 +1,38 @@
+{
+  "busca": "Moses with the Ten Commandments Rembrandt painting",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Rembrandt_-_Moses_with_the_Ten_Commandments_-_Google_Art_Project.jpg",
+      "miniatura": "candidatos/moses-with-the-ten-commandments-rembrandt-painting/01.jpg",
+      "largura": 4000,
+      "altura": 4990,
+      "licenca": "Public domain",
+      "titulo": "Moses Smashing the Tablets of the Law",
+      "artista": "Rembrandt",
+      "data": "1659"
+    },
+    {
+      "n": 2,
+      "commons": "File:Rembrandt_Harmensz._van_Rijn_079.jpg",
+      "miniatura": "candidatos/moses-with-the-ten-commandments-rembrandt-painting/02.jpg",
+      "largura": 2024,
+      "altura": 2659,
+      "licenca": "Public domain",
+      "titulo": "Moses Smashing the Tablets of the Law",
+      "artista": "Rembrandt",
+      "data": "1659"
+    },
+    {
+      "n": 3,
+      "commons": "File:De_roeping_van_Sint-Antonius_Rijksmuseum_SK-A-1691.jpeg",
+      "miniatura": "candidatos/moses-with-the-ten-commandments-rembrandt-painting/03.jpg",
+      "largura": 4510,
+      "altura": 6238,
+      "licenca": "Public domain",
+      "titulo": "The Calling of Saint Anthony",
+      "artista": "Aertgen van Leyden",
+      "data": "Circa 1530"
+    }
+  ]
+}
