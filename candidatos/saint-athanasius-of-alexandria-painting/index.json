@@ -1,0 +1,49 @@
+{
+  "busca": "Saint Athanasius of Alexandria painting",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Bisschop_Athanasius_Les_plat-fonds_ou_les_tableaux_des_galeries_De_plafonds_of_gallerystukken_(serietitel),_RP-P-OB-66.366.jpg",
+      "miniatura": "candidatos/saint-athanasius-of-alexandria-painting/01.jpg",
+      "largura": 6150,
+      "altura": 5186,
+      "licenca": "CC0",
+      "titulo": "Bisschop Athanasius Les plat-fonds ou les tableaux des galeries De plafonds of gallerystukken (serietitel), RP-P-OB-66.366",
+      "artista": "Rijksmuseum",
+      "data": "1753"
+    },
+    {
+      "n": 2,
+      "commons": "File:RubensAthanasius.jpg",
+      "miniatura": "candidatos/saint-athanasius-of-alexandria-painting/02.jpg",
+      "largura": 1769,
+      "altura": 1371,
+      "licenca": "Public domain",
+      "titulo": "Saint Athanasius",
+      "artista": "Peter Paul Rubens",
+      "data": "1620"
+    },
+    {
+      "n": 3,
+      "commons": "File:Fyodor_Zubov.Savior_of_Smolensk_with_the_kneeling_saints.1667.jpg",
+      "miniatura": "candidatos/saint-athanasius-of-alexandria-painting/03.jpg",
+      "largura": 1620,
+      "altura": 2000,
+      "licenca": "Public domain",
+      "titulo": "Fyodor Zubov.Savior of Smolensk with the kneeling saints.1667",
+      "artista": "Fyodor Zubov",
+      "data": "1667"
+    },
+    {
+      "n": 4,
+      "commons": "File:Signorelli,_Trinity,_the_Virgin_and_Two_Saints.jpg",
+      "miniatura": "candidatos/saint-athanasius-of-alexandria-painting/04.jpg",
+      "largura": 1761,
+      "altura": 2549,
+      "licenca": "Public domain",
+      "titulo": "Trinity, the Virgin, and Two Saints",
+      "artista": "Luca Signorelli",
+      "data": "1510"
+    }
+  ]
+}

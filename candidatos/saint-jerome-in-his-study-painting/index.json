@@ -1,0 +1,137 @@
+{
+  "busca": "Saint Jerome in his study painting",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_London.jpg",
+      "miniatura": "candidatos/saint-jerome-in-his-study-painting/01.jpg",
+      "largura": 4731,
+      "altura": 6000,
+      "licenca": "Public domain",
+      "titulo": "Saint Jerome in his Study",
+      "artista": "Antonello da Messina",
+      "data": "circa 1474"
+    },
+    {
+      "n": 2,
+      "commons": "File:Saint_Jerome_in_His_Study_(SM_839).png",
+      "miniatura": "candidatos/saint-jerome-in-his-study-painting/02.jpg",
+      "largura": 3402,
+      "altura": 2322,
+      "licenca": "PDM-owner",
+      "titulo": "Saint Jerome in His Study",
+      "artista": "Vincenzo Catena",
+      "data": "between circa 1513 and circa 1515"
+    },
+    {
+      "n": 3,
+      "commons": "File:Workshop_of_Pieter_Coecke_van_Aelst,_the_elder_-_Saint_Jerome_in_His_Study_-_Walters_37256.jpg",
+      "miniatura": "candidatos/saint-jerome-in-his-study-painting/03.jpg",
+      "largura": 1800,
+      "altura": 1320,
+      "licenca": "Public domain",
+      "titulo": "Saint Jerome in His Study",
+      "artista": "Pieter Coecke van Aelst and workshop",
+      "data": "circa 1530"
+    },
+    {
+      "n": 4,
+      "commons": "File:Albrecht_Dürer,_Saint_Jerome_in_His_Study,_1514,_NGA_35095.jpg",
+      "miniatura": "candidatos/saint-jerome-in-his-study-painting/04.jpg",
+      "largura": 3058,
+      "altura": 4000,
+      "licenca": "CC0",
+      "titulo": "Der heilige Hieronymus im Gehäus.",
+      "artista": "Albrecht Dürer",
+      "data": "1514"
+    },
+    {
+      "n": 5,
+      "commons": "File:Jan_van_Eyck_-_Saint_Jerome_in_His_Study_DIA.jpg",
+      "miniatura": "candidatos/saint-jerome-in-his-study-painting/05.jpg",
+      "largura": 1825,
+      "altura": 2852,
+      "licenca": "Public domain",
+      "titulo": "Saint Jerome in His Study",
+      "artista": "Jan van Eyck",
+      "data": "1435"
+    },
+    {
+      "n": 6,
+      "commons": "File:Amant_Molet_-_Saint_Jerome_in_his_study_-_M.Ob.2437_-_National_Museum_in_Warsaw.jpg",
+      "miniatura": "candidatos/saint-jerome-in-his-study-painting/06.jpg",
+      "largura": 4000,
+      "altura": 2408,
+      "licenca": "Public domain",
+      "titulo": "Saint Jerome in his study",
+      "artista": "Amant Molet",
+      "data": "from 1521 until 1549"
+    },
+    {
+      "n": 7,
+      "commons": "File:Joos_van_Cleve_-_Saint_Jerome_in_his_study_-_M.Ob.1045_MNW_-_National_Museum_in_Warsaw.jpg",
+      "miniatura": "candidatos/saint-jerome-in-his-study-painting/07.jpg",
+      "largura": 3132,
+      "altura": 4000,
+      "licenca": "Public domain",
+      "titulo": "Saint Jerome in his study",
+      "artista": "Joos van Cleve",
+      "data": ""
+    },
+    {
+      "n": 8,
+      "commons": "File:Saint_Jerome_in_His_Study_MET_DP815748.jpg",
+      "miniatura": "candidatos/saint-jerome-in-his-study-painting/08.jpg",
+      "largura": 2791,
+      "altura": 3636,
+      "licenca": "CC0",
+      "titulo": "St. Jerome in His Study",
+      "artista": "Albrecht Dürer",
+      "data": "1514"
+    },
+    {
+      "n": 9,
+      "commons": "File:Molet_Saint_Jerome_in_his_study.jpg",
+      "miniatura": "candidatos/saint-jerome-in-his-study-painting/09.jpg",
+      "largura": 2379,
+      "altura": 1419,
+      "licenca": "Public domain",
+      "titulo": "Saint Jerome in his study",
+      "artista": "Amant Molet",
+      "data": "from 1521 until 1549"
+    },
+    {
+      "n": 10,
+      "commons": "File:Saint_Jerome_in_His_Study_MET_DP815747.jpg",
+      "miniatura": "candidatos/saint-jerome-in-his-study-painting/10.jpg",
+      "largura": 2821,
+      "altura": 3669,
+      "licenca": "CC0",
+      "titulo": "St. Jerome in His Study",
+      "artista": "Albrecht Dürer",
+      "data": "1514"
+    },
+    {
+      "n": 11,
+      "commons": "File:Saint_Jerome_in_His_Study_MET_DP815749.jpg",
+      "miniatura": "candidatos/saint-jerome-in-his-study-painting/11.jpg",
+      "largura": 2815,
+      "altura": 3657,
+      "licenca": "CC0",
+      "titulo": "St. Jerome in His Study",
+      "artista": "Albrecht Dürer",
+      "data": "1514"
+    },
+    {
+      "n": 12,
+      "commons": "File:Saint_Jerome_in_His_Study_MET_DP820349.jpg",
+      "miniatura": "candidatos/saint-jerome-in-his-study-painting/12.jpg",
+      "largura": 1446,
+      "altura": 1866,
+      "licenca": "CC0",
+      "titulo": "St. Jerome in His Study",
+      "artista": "Albrecht Dürer",
+      "data": "1514"
+    }
+  ]
+}

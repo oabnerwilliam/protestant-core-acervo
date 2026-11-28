@@ -1,0 +1,137 @@
+{
+  "busca": "Saint Jerome writing Caravaggio",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:San_Gerolamo_(Caravaggio)_September_2015-1a.jpg",
+      "miniatura": "candidatos/saint-jerome-writing-caravaggio/01.jpg",
+      "largura": 4757,
+      "altura": 3399,
+      "licenca": "Public domain",
+      "titulo": "Saint Jerome",
+      "artista": "Caravaggio",
+      "data": "by 1610"
+    },
+    {
+      "n": 2,
+      "commons": "File:Saint_Jerome_Writing-Caravaggio_(1605-6).jpg",
+      "miniatura": "candidatos/saint-jerome-writing-caravaggio/02.jpg",
+      "largura": 8708,
+      "altura": 6212,
+      "licenca": "Public domain",
+      "titulo": "Saint Jerome",
+      "artista": "Caravaggio",
+      "data": "between 1605 and 1606"
+    },
+    {
+      "n": 3,
+      "commons": "File:Caravaggio_-_Saint_Jerome_in_his_study_-_Oratory_of_St_John_the_Baptist,_St_John’s_Co-Cathedral,_Valletta.jpg",
+      "miniatura": "candidatos/saint-jerome-writing-caravaggio/03.jpg",
+      "largura": 2362,
+      "altura": 1621,
+      "licenca": "Public domain",
+      "titulo": "Saint Jerome Writing",
+      "artista": "Caravaggio",
+      "data": "circa 1608"
+    },
+    {
+      "n": 4,
+      "commons": "File:Saint_Jerome_Writing-Caravaggio_(c._1607).jpg",
+      "miniatura": "candidatos/saint-jerome-writing-caravaggio/04.jpg",
+      "largura": 9864,
+      "altura": 6744,
+      "licenca": "Public domain",
+      "titulo": "Saint Jerome Writing",
+      "artista": "Caravaggio",
+      "data": "circa 1608"
+    },
+    {
+      "n": 5,
+      "commons": "File:Caravaggio_-_Saint_Jerome_-_Galleria_Borghese.jpg",
+      "miniatura": "candidatos/saint-jerome-writing-caravaggio/05.jpg",
+      "largura": 4000,
+      "altura": 2914,
+      "licenca": "Public domain",
+      "titulo": "Saint Jerome",
+      "artista": "Caravaggio",
+      "data": "1606"
+    },
+    {
+      "n": 6,
+      "commons": "File:St_Jerome_by_Michelangelo_Merisi_da_Caravaggio.jpeg",
+      "miniatura": "candidatos/saint-jerome-writing-caravaggio/06.jpg",
+      "largura": 2362,
+      "altura": 1629,
+      "licenca": "CC0",
+      "titulo": "Saint Jerome Writing",
+      "artista": "Caravaggio",
+      "data": "circa 1607-1608"
+    },
+    {
+      "n": 7,
+      "commons": "File:Michelangelo_Caravaggio_056.jpg",
+      "miniatura": "candidatos/saint-jerome-writing-caravaggio/07.jpg",
+      "largura": 2024,
+      "altura": 2477,
+      "licenca": "Public domain",
+      "titulo": "Hl. Hieronymus",
+      "artista": "Caravaggio",
+      "data": "1608"
+    },
+    {
+      "n": 8,
+      "commons": "File:Co-Cath.jpg",
+      "miniatura": "candidatos/saint-jerome-writing-caravaggio/08.jpg",
+      "largura": 3168,
+      "altura": 4752,
+      "licenca": "Public domain",
+      "titulo": "Co-Cath",
+      "artista": "Szilas",
+      "data": "2012-05-14"
+    },
+    {
+      "n": 9,
+      "commons": "File:San_Girolamo_(particolare).jpg",
+      "miniatura": "candidatos/saint-jerome-writing-caravaggio/09.jpg",
+      "largura": 3686,
+      "altura": 4840,
+      "licenca": "Public domain",
+      "titulo": "Saint Jerome",
+      "artista": "Caravaggio",
+      "data": "between 1605 and 1606"
+    },
+    {
+      "n": 10,
+      "commons": "File:(Venice)_Saint_Jerome_in_Penance_by_Veronese_(Accademia).jpg",
+      "miniatura": "candidatos/saint-jerome-writing-caravaggio/10.jpg",
+      "largura": 5659,
+      "altura": 8397,
+      "licenca": "Public domain",
+      "titulo": "(Venice) Saint Jerome in Penance by Veronese (Accademia)",
+      "artista": "Didier Descouens",
+      "data": "Taken on 9 May 2023"
+    },
+    {
+      "n": 11,
+      "commons": "File:(Venice)_Saint_Jerome_Meditating_by_Jacopo_Da_ponte_-_gallerie_Accademia_Venice.jpg",
+      "miniatura": "candidatos/saint-jerome-writing-caravaggio/11.jpg",
+      "largura": 7381,
+      "altura": 5652,
+      "licenca": "Public domain",
+      "titulo": "(Venice) Saint Jerome Meditating by Jacopo Da ponte - gallerie Accademia Venice",
+      "artista": "Didier Descouens",
+      "data": "Taken on 9 May 2023"
+    },
+    {
+      "n": 12,
+      "commons": "File:(Venice)_Saint_Anne_with_the_Infant_Virgin_between_Saints_Jerome_and_Francis.jpg",
+      "miniatura": "candidatos/saint-jerome-writing-caravaggio/12.jpg",
+      "largura": 4647,
+      "altura": 6650,
+      "licenca": "Public domain",
+      "titulo": "(Venice) Saint Anne with the Infant Virgin between Saints Jerome and Francis",
+      "artista": "Didier Descouens",
+      "data": "Taken on 9 May 2023"
+    }
+  ]
+}

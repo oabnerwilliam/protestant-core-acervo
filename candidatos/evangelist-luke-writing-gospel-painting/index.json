@@ -1,0 +1,38 @@
+{
+  "busca": "Evangelist Luke writing gospel painting",
+  "candidatos": [
+    {
+      "n": 1,
+      "commons": "File:The_Four_Evangelists_(Abraham_Bloemaert).jpg",
+      "miniatura": "candidatos/evangelist-luke-writing-gospel-painting/01.jpg",
+      "largura": 2000,
+      "altura": 1573,
+      "licenca": "Public domain",
+      "titulo": "De Vier Evangelisten The Four Evangelists",
+      "artista": "Abraham Bloemaert",
+      "data": "between 1612 and 1615"
+    },
+    {
+      "n": 2,
+      "commons": "File:De_evangelist_Lukas_wordt_geïnspireerd_door_de_apostel_Paulus,_RP-T-1951-82.jpg",
+      "miniatura": "candidatos/evangelist-luke-writing-gospel-painting/02.jpg",
+      "largura": 6100,
+      "altura": 3216,
+      "licenca": "CC0",
+      "titulo": "De evangelist Lukas wordt geïnspireerd door de apostel Paulus, RP-T-1951-82",
+      "artista": "Rijksmuseum",
+      "data": "1709"
+    },
+    {
+      "n": 3,
+      "commons": "File:Byzantium,_Constantinople,_11th_century_-_Leaf_from_a_Lectionary_with_St._Matthew_-_1942.1512_-_Cleveland_Museum_of_Art.tif",
+      "miniatura": "candidatos/evangelist-luke-writing-gospel-painting/03.jpg",
+      "largura": 1536,
+      "altura": 1789,
+      "licenca": "CC0",
+      "titulo": "Leaf from a Lectionary with St. Matthew",
+      "artista": "",
+      "data": "1057"
+    }
+  ]
+}
